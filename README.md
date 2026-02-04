@@ -10,8 +10,6 @@
 - Embedded C
 - ARM7TDMI (LPC2129)
 - UART, GPIO, Timers, Interrupts
-- LCD (4-bit mode)
-- Bluetooth (HC-05)
 - Git & GitHub
 
 ---
